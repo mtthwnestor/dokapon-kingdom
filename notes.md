@@ -15,3 +15,5 @@
   * [Dokapon Archive Tools](https://gamebanana.com/tools/8564)
   * [DokaponPacker Code](https://github.com/Yackerw/DokaponPacker)
   * [The Cutting Room Floor](https://tcrf.net/The_Cutting_Room_Floor)
+  * [Code Sheet](https://docs.google.com/spreadsheets/d/1uAzXJ1n-o32z1KxkegUjm0GgZ4Egu8ATRDqo54nCs_c/edit#gid=903124491)
+  * [Discord](https://discord.gg/9P4DqYxVm6)
